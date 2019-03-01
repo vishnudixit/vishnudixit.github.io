@@ -1,6 +1,6 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Vishnu Sharma
+description: Vishnu Sharma
 favicon: /assets/img/avatar.JPG
 baseurl: https://ddbullfrog.github.io/resumecard
 url: https://ddbullfrog.github.io/resumecard
@@ -14,15 +14,15 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
+  name: Vishnu Sharma
   title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
+  address: Sector 135 Noida, India
+  email: talkto@vishnusharma.dev
   link: http://ddbullfrog.com
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
+  github: vishnudixit
+  linkedin: vishnu-d-sharma
+  twitter: DixitVishnu
   gavatar: /resumecard/assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
