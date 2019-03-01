@@ -1,9 +1,9 @@
 # Site settings
 title: Vishnu Sharma
 description: Vishnu Sharma
-favicon: https://github.com/vishnudixit/vishnudixit.github.io/blob/master/_assets/549265_306449966094020_878575295_n.jpg
+favicon: /assets/img/avatar.JPG
 baseurl: https://ddbullfrog.github.io/resumecard
-url: vishnudixit.github.io
+url: https://ddbullfrog.github.io/resumecard
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
