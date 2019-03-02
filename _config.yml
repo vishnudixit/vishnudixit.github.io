@@ -27,33 +27,14 @@ author:
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
-work1:
+    - work1:
       company: Tubelight Communications Limited
       location: Sector 135 Noida, India
       title: Lead Technology(Java)
       started: 2016
       duration: (2016 - Present)
-      description: 
-       Finding the best tech solution among all possible to solve the existing business problems.
-       Describing the structure, characteristics, behavior, and other aspects of software to project stakeholders.
-       Defining features, phases, and solution requirements.
-       Providing specifications according to which the solution is defined, managed, and delivered.
-       Analyzing the technology environment
-       Analyzing enterprise specifics
-       Analyzing and documenting requirements
-       Setting the collaboration framework
-       Creating a solution prototype
-       Participating in technology selection
-       Controlling solution development
-       Supporting project management
-       Smart planning of complex tasks on hand with details to proceed to the next level with impact analysis. 
-       Innovating new products & solutions which are market changing for the company
-       Improvising & Optimizing existing products, solutions to invest in next generation technology
-       Identifying alliances ahead of time & excelling in cross sites collaboration
-       Provide technical support and consultation for java application and infrastructure questions. 
-       Establish, refine and integrate development and test environment tools and software as needed.
-       Analyse database schema's, data models, and data integration requirements
-      - work2:
+      description: I am .
+    - work2:
       company: XXX Ltd
       location: Shanghai, China
       title: Java Developer
