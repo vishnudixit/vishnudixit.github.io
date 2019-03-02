@@ -15,7 +15,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Vishnu Sharma
-  title: Java Developer
+  title: Mobile Evangelist || Tech Entrepreneur || Machine Learning || Artificial Intelligence || Cloud Telephony Consultant || Java Developer
   address: Sector 135 Noida, India
   email: talkto@vishnusharma.dev
   link: http://ddbullfrog.com
@@ -35,12 +35,12 @@ author:
       duration: (2016 - Present)
       description:  " Finding the best tech solution among all possible to solve the existing business problems.<br> Describing the structure, characteristics, behavior, and other aspects of software to project stakeholders.<br> Defining features, phases, and solution requirements.<br> Providing specifications according to which the solution is defined, managed, and delivered.<br> Analyzing the technology environment.<br> Analyzing enterprise specifics.<br> Analyzing and documenting requirements.<br> Setting the collaboration framework.<br> Creating a solution prototype.<br> Participating in technology selection.<br> Controlling solution development.<br> Supporting project management.<br> Smart planning of complex tasks on hand with details to proceed to the next level with impact analysis.<br> Innovating new products & solutions which are market changing for the company.<br> Improvising & Optimizing existing products, solutions to invest in next generation technology.<br> Identifying alliances ahead of time & excelling in cross sites collaboration.<br> Provide technical support and consultation for java application and infrastructure questions.<br> Establish, refine and integrate development and test environment tools and software as needed.<br> Analyse database schema's, data models, and data integration requirements"
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Live Digital Solution Pvt Ltd.
+      location: Sector 59, Noida, India 
+      title: Sen. Software Engineer (Java/VXML)
+      started: 2014
+      duration: (2014 - 2016)
+      description: " Develop,test,implement and maintain application software working with established processes.                     <br> Identify opportunities to fine-tune and optimize applications of java developed projects.<br> Provide technical support and consultation for java application and infrastructure questions. <br> Establish, refine and integrate development and test environment tools and software as needed.<br> Analyze database schemas, data models, and data integration requirements"
     - work3:
       company: XXX Ltd
       location: Shanghai, China
