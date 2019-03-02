@@ -1,7 +1,7 @@
 # Site settings
 title: Vishnu Sharma
 description: Vishnu Sharma
-favicon: /assets/img/549265_306449966094020_878575295_n.jpg
+favicon: /assets/img/favicon.ico
 baseurl: https://vishnudixit.github.io/
 url: https://vishnudixit.github.io/
 rss_url: /pages/atom.xml
