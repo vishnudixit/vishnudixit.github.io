@@ -65,17 +65,16 @@ author:
       started: 2010
       duration: (2010 - 2013)
       description: Master of Computer Applications (MCA) is a three-year (six semester) professional Master's Degree in computer science awarded in India. The course was designed to meet the growing demand for qualified professionals in the field of Information Technology (computer software). It is a postgraduate course that can be taken up after obtaining a Bachelor's Degree.
-
-  certificationHistory:
-    - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
-      degree: Bachelor
+    - education3:
+      organization: Dr. Bhim Rao Ambedkar University (Formerly Agra University)
+      location: Agra, India
+      degree: Bachel0rs
       major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-  languages:
+      started: 2007
+      duration: (2007 - 2010)
+      description: Bachelor of Computer Applications (BCA) is a three-year (six semester) professional Bachelor's Degree in computer science awarded in India. The course was designed to meet the growing demand for qualified professionals in the field of Information Technology (computer software).
+
+    languages:
     - language1:
       name: Hindi
       proficiency: Proficient
@@ -119,3 +118,21 @@ author:
     - skill12:
       name: Deep Learning
       percentage: 70%
+    - skill13:
+      name: Leadership
+      percentage: 70%
+    - skill14:
+      name: DevOps
+      percentage: 60%
+    - skill15:
+      name: Management
+      percentage: 75%
+    - skill16:
+      name: Spark
+      percentage: 70%
+     - skill17:
+      name: Hive
+      percentage: 75%
+    - skill18:
+      name: Database Management (MySql/Oracle/SqLite)
+      percentage: 90%
