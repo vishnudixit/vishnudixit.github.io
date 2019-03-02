@@ -35,36 +35,36 @@ author:
       duration: (2016 - Present)
       description:  " Finding the best tech solution among all possible to solve the existing business problems. Describing the structure, characteristics, behavior, and other aspects of software to project stakeholders.<br> Defining features, phases, and solution requirements.<br> Providing specifications according to which the solution is defined, managed, and delivered.<br> Analyzing the technology environment.<br> Analyzing enterprise specifics.<br> Analyzing and documenting requirements.<br> Setting the collaboration framework.<br> Creating a solution prototype.<br> Participating in technology selection.<br> Controlling solution development.<br> Supporting project management.<br> Smart planning of complex tasks on hand with details to proceed to the next level with impact analysis.<br> Innovating new products & solutions which are market changing for the company.<br> Improvising & Optimizing existing products, solutions to invest in next generation technology.<br> Identifying alliances ahead of time & excelling in cross sites collaboration.<br> Provide technical support and consultation for java application and infrastructure questions.<br> Establish, refine and integrate development and test environment tools and software as needed.<br> Analyse database schema's, data models, and data integration requirements"
     - work2:
-      company: Live Digital Solution Pvt Ltd.
+      company: Live Digital Solutions Pvt Ltd.
       location: Sector 59, Noida, India 
       title: Sen. Software Engineer (Java/VXML)
       started: 2014
       duration: (2014 - 2016)
       description: " Develop,test,implement and maintain application software working with established processes. Identify opportunities to fine-tune and optimize applications of java developed projects.<br> Provide technical support and consultation for java application and infrastructure questions. <br> Establish, refine and integrate development and test environment tools and software as needed.<br> Analyze database schemas, data models, and data integration requirements"
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Ragon Systems Pvt Ltd
+      location: Noida Area, India
+      title: Junior Java Developer
+      started: 2013
+      duration: (2013 - 2014)
+      description: " Develop,test,implement and maintain application software working with established processes. Identify opportunities to fine-tune and optimize applications of java developed projects.<br> Provide technical support and consultation for java application and infrastructure questions. <br> Establish, refine and integrate development and test environment tools and software as needed.<br> Analyze database schemas, data models, and data integration requirements"
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      organization: Stanford University
+      location: CA, USA
+      degree: Certificate Course
+      major: Machine Learning
+      started: 2018
+      duration: (2018 - 2018)
+      description: Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. 
     - education2:
-      organization: XXXXXX University
-      location: Shenyang, China
-      degree: Bachelor
+      organization: Uttar Pradesh Technical University
+      location: Lucknow, India
+      degree: Masters
       major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      started: 2010
+      duration: (2010 - 2013)
+      description: Master of Computer Applications (MCA) is a three-year (six semester) professional Master's Degree in computer science awarded in India. The course was designed to meet the growing demand for qualified professionals in the field of Information Technology (computer software). It is a postgraduate course that can be taken up after obtaining a Bachelor's Degree.
 
   certificationHistory:
     - education1:
